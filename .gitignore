@@ -1,0 +1,7 @@
+images/*
+node_modules/*
+scripts/*
+themes/*
+/package-lock.json
+/package.json
+/tsconfig.json
