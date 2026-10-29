@@ -1,6 +1,7 @@
 # SAI Theme
 
-Custom themes for VS Code with Roboto-SAI-Fuego color schemes.
+This is THE ONLY open source code for public use, for now.
+Custom themes for VS Code with Roboto SAI color schemes.
 
 ## Themes Included
 
